@@ -1,0 +1,49 @@
+#game{
+	width: 400px;
+	height:500px;
+	background-color: #75E116;
+	margin-top: 50px;
+	margin-left: 400px;
+	}
+
+#mixerBtn{
+	width: 400px;
+	height: 100px;
+	float: left;
+	border: 3px solid white;
+	box-sizing:border-box;
+	line-height: 100px;
+	text-align: center;
+	font-size: 40px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+#mixerBtn:hover{
+	width: 400px;
+	height: 100px;
+	float: left;
+	border: 5px solid white;
+	box-sizing:border-box;
+	line-height: 100px;
+	text-align: center;
+	font-size: 40px;
+	text-transform: uppercase;
+	cursor: pointer;
+	opacity: 0.5;
+}
+.block{
+	width: 100px;
+	height: 100px;
+	float: left;
+	border: 3px solid white;
+	box-sizing:border-box;
+	line-height: 100px;
+	text-align: center;
+	font-size: 70px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+#0{
+	background-color: #E12200;
+
+}
